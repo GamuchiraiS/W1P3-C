@@ -1,0 +1,7 @@
+D:\Web & Software Programming Fundamentals\Programming Fundamentals (C#)\Practical Problems\Problem 1.3\Problem 1.3\bin\Debug\Problem 1.3.exe.config
+D:\Web & Software Programming Fundamentals\Programming Fundamentals (C#)\Practical Problems\Problem 1.3\Problem 1.3\bin\Debug\Problem 1.3.exe
+D:\Web & Software Programming Fundamentals\Programming Fundamentals (C#)\Practical Problems\Problem 1.3\Problem 1.3\bin\Debug\Problem 1.3.pdb
+D:\Web & Software Programming Fundamentals\Programming Fundamentals (C#)\Practical Problems\Problem 1.3\Problem 1.3\obj\Debug\Problem 1.3.csproj.AssemblyReference.cache
+D:\Web & Software Programming Fundamentals\Programming Fundamentals (C#)\Practical Problems\Problem 1.3\Problem 1.3\obj\Debug\Problem 1.3.csproj.CoreCompileInputs.cache
+D:\Web & Software Programming Fundamentals\Programming Fundamentals (C#)\Practical Problems\Problem 1.3\Problem 1.3\obj\Debug\Problem 1.3.exe
+D:\Web & Software Programming Fundamentals\Programming Fundamentals (C#)\Practical Problems\Problem 1.3\Problem 1.3\obj\Debug\Problem 1.3.pdb
